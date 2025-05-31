@@ -1,0 +1,49 @@
+checkup_engagement_key,time_since_cholcheck,time_since_gencheck
+0,Within the past 2 years,Within past 2 years
+1,Within the past year,Within past 2 years
+2,Within the past year,Within past year
+3,Within the past 2 years,Within past 5 years
+4,Within the past 2 years,Within past year
+5,Within the past year,Never
+6,Never,Within past year
+7,Within the past 3 years,5 or more years ago
+8,Within the past year,5 or more years ago
+9,Within the past 3 years,Within past 2 years
+10,Within the past year,
+11,,Within past year
+12,Within the past 3 years,Within past year
+13,Never,5 or more years ago
+14,Within the past year,Within past 5 years
+15,Never,Within past 2 years
+16,5 or more years ago,5 or more years ago
+17,Never,Never
+18,,
+19,Never,Within past 5 years
+20,Within the past 2 years,5 or more years ago
+21,Within the past 3 years,Within past 5 years
+22,5 or more years ago,Within past year
+23,Within the past 5 years,Within past 5 years
+24,,Within past 2 years
+25,,5 or more years ago
+26,Within the past 4 years,Within past 2 years
+27,Within the past 4 years,Within past year
+28,5 or more years ago,Within past 5 years
+29,,Never
+30,Within the past 5 years,Within past year
+31,Within the past 4 years,Within past 5 years
+32,5 or more years ago,Within past 2 years
+33,5 or more years ago,Never
+34,5 or more years ago,
+35,,Within past 5 years
+36,Within the past 3 years,Never
+37,Never,
+38,Within the past 5 years,5 or more years ago
+39,Within the past 2 years,Never
+40,Within the past 5 years,Within past 2 years
+41,Within the past 5 years,
+42,Within the past 3 years,
+43,Within the past 4 years,5 or more years ago
+44,Within the past 2 years,
+45,Within the past 4 years,Never
+46,Within the past 4 years,
+47,Within the past 5 years,Never
